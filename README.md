@@ -18,9 +18,11 @@
 - **通用搜索页面支持**  
   即使未被自动识别的网站，只要有通用查询参数，也能显示切换器。
 
-### 安装要求 Requirements
+### 安装要求 / Requirements
 - **浏览器用户脚本管理器**  
-  Tampermonkey / Violentmonkey / Greasemonkey
+  Tampermonkey / Violentmonkey / Greasemonkey  
+- **获取脚本**  
+  可在 [Greasy Fork 搜索引擎切换器](https://greasyfork.org/zh-CN/scripts/564560-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%88%87%E6%8D%A2%E5%99%A8) 下载或安装。
 
 ### 安装与使用 Installation & Usage
 1. 安装浏览器用户脚本管理器（Tampermonkey、Violentmonkey 或 Greasemonkey）。
@@ -53,9 +55,11 @@ This userscript displays a floating search engine switcher on any search page or
 - **Visibility on Any Search Page**  
   Even for sites without built-in recognition, the script can show the switcher for generic search query pages.
 
-### Requirements
+### Requirements / 安装要求
 - **Browser Userscript Manager**  
-  Tampermonkey / Violentmonkey / Greasemonkey
+  Tampermonkey / Violentmonkey / Greasemonkey  
+- **Get the Script**  
+  You can download or install it from [Greasy Fork Search Engine Switcher](https://greasyfork.org/zh-CN/scripts/564560-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%88%87%E6%8D%A2%E5%99%A8).
 
 ### Installation & Usage
 1. Install a userscript manager (Tampermonkey, Violentmonkey, or Greasemonkey) in your browser.
