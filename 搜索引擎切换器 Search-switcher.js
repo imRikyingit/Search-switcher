@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         搜索引擎切换器
 // @namespace    https://greasyfork.org/scripts/search-switcher
-// @version      2.1.1
+// @version      2.2
 // @description  多搜索引擎切换｜自动收起｜添加/删除搜索引擎｜新增“添加当前页面”功能 | Easily switch between popular search engines and manage custom ones
 // @match        *://*/*
 // @grant        GM_getValue
@@ -301,5 +301,6 @@ whenDomReady(render);// ==UserScript==
 // @author      -
 // @description 2026/1/30 21:17:27
 // ==/UserScript==
+
 
 
