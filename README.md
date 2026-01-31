@@ -2,11 +2,11 @@
 
 ---
 
-## 中文介绍
+## 介绍
 
 这个用户脚本会在任何搜索页面或支持搜索的网站显示一个悬浮的搜索引擎切换器，让你可以快速在不同搜索引擎之间切换相同关键词，并管理自定义搜索引擎。
 
-### 功能 Features
+### 功能
 - **多搜索引擎切换**  
   内置支持 Google、Bing、YouTube、知乎、哔哩哔哩等流行搜索引擎。
 - **自定义搜索引擎**  
@@ -18,7 +18,7 @@
 - **通用搜索页面支持**  
   即使未被自动识别的网站，只要有通用查询参数，也能显示切换器。
 
-### 安装要求 / Requirements
+### 安装要求
 - **浏览器用户脚本管理器**  
   Tampermonkey / Violentmonkey / Greasemonkey  
 - **获取脚本**  
@@ -39,7 +39,7 @@
 
 ---
 
-## English Introduction
+## Introduction
 
 This userscript displays a floating search engine switcher on any search page or websites that support search. It allows you to quickly switch the same keyword between different search engines and manage your custom search engines.
 
@@ -55,7 +55,7 @@ This userscript displays a floating search engine switcher on any search page or
 - **Visibility on Any Search Page**  
   Even for sites without built-in recognition, the script can show the switcher for generic search query pages.
 
-### Requirements / 安装要求
+### Requirements
 - **Browser Userscript Manager**  
   Tampermonkey / Violentmonkey / Greasemonkey  
 - **Get the Script**  
