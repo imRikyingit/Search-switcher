@@ -1,3 +1,13 @@
+# Search Engine Switcher
+
+> **Project status / 项目状态: Discontinued / 已停止维护**
+>
+> This project is no longer actively maintained. Please use the newer project instead:
+> **[Searchbar](https://github.com/imRikyingit/searchbar)**
+>
+> 本项目已停止更新和维护，建议使用新版项目：
+> **[Searchbar](https://github.com/imRikyingit/searchbar)**
+
 # 搜索引擎切换器 / Search Engine Switcher
 
 ---
